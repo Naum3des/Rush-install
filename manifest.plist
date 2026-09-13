@@ -9,15 +9,15 @@
       <array>
         <dict>
           <key>kind</key><string>software-package</string>
-          <key>url</key><string>https://github.com/naumgaming/Rush-install/releases/download/v1.0.0/Rushed.ipa</string>
+          <key>url</key><string>https://github.com/Naum3des/Rush-install/releases/download/v1.0.0/Rushed.ipa</string>
         </dict>
         <dict>
           <key>kind</key><string>display-image</string>
-          <key>url</key><string>https://naumgaming.github.io/Rush-install/icon57.png</string>
+          <key>url</key><string>https://naum3des.github.io/Rush-install/icon57.png</string>
         </dict>
         <dict>
           <key>kind</key><string>full-size-image</string>
-          <key>url</key><string>https://naumgaming.github.io/Rush-install/icon512.png</string>
+          <key>url</key><string>https://naum3des.github.io/Rush-install/icon512.png</string>
         </dict>
       </array>
       <key>metadata</key>
