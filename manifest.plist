@@ -22,7 +22,7 @@
       </array>
       <key>metadata</key>
       <dict>
-        <key>bundle-identifier</key><string>com.nelly.rush</string>
+        <key>bundle-identifier</key><string>com.nelly.Rush</string>
         <key>bundle-version</key><string>1.0.0</string>
         <key>kind</key><string>software</string>
         <key>title</key><string>Rush</string>
